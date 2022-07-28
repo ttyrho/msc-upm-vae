@@ -1,4 +1,4 @@
-# Analysis of the Latent Space in the Variational Auto-Encoder
+# Analysis of the latent space in the variational auto-encoder
 This repository contains the results of the work I've done to get my
 MSc. degree. It was presented on **July 28th, 2022**.
 
