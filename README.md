@@ -2,11 +2,12 @@
 This repository contains the results of the work I've done to get my
 MSc. degree. It was presented on **July 28th, 2022**.
 
-| File                | Description                                    |
-| :-                  | :-                                             |
-| `experiments.ipynb` | The notebook used to implement the experiments |
-| `experiments.pdf`   | The printed results of the experiments         |
-| `report.pdf`        | The report that describes the work (Spanish)   |
+| File                | Description                                                 |
+| :-                  | :-                                                          |
+| `experiments.ipynb` | The notebook used to implement the experiments              |
+| `experiments.pdf`   | The printed results of the experiments                      |
+| `report.pdf`        | The report that describes the work (Spanish)                |
+| `slides.pdf`        | The collection of slides used in the presentation (Spanish) |
 
 
 ---
